@@ -2,8 +2,6 @@
 
 ### Data Analyst
 
-- 🌱 I'm currently learning **Power BI, Postgres**
-
 - 👯 I'm looking to collaborate on **open source projects **
 
 - 📫 How to reach me **varunkashyap838@gmail.com**
